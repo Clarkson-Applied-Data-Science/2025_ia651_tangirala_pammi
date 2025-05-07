@@ -1,6 +1,6 @@
 # 2025_ia651_tangirala_pammi
 ### ABSTRACT
-This project forecasts S&P 500 closing prices using historical data and advanced models. After classical methods like ARIMA underperformed, our approach shifted to XG Boost and LSTM, leveraging lag features of the Close price. Evaluated with MSE, MAE, RMSE  the models provide insights into market trends while addressing challenges like volatility and overfitting. Future enhancements include adding macroeconomic data and automated retraining for real-time forecasting.
+This project forecasts S&P 500 closing prices using historical data and advanced models. After classical methods like ARIMA underperformed, our approach shifted to RNN, XG Boost and LSTM, leveraging lag features of the Close price. Evaluated with MSE, MAE, RMSE  the models provide insights into market trends while addressing challenges like volatility and overfitting. Future enhancements include adding macroeconomic data and automated retraining for real-time forecasting.
 
 ### DATASET
 #### Describe the dataset(s) used.  
